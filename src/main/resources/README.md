@@ -17,3 +17,5 @@
 请求方式为GET  
 
     127.0.0.1:8080/url/getViewTimes?longUrl=xxx
+
+本demo后续会继续改进
