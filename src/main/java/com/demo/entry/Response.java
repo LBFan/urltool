@@ -13,7 +13,7 @@ import java.io.Serializable;
  */
 @Data
 public class Response implements Serializable {
-    // 主键
+    // 自增主键
     @Id
     @GeneratedValue
     private Integer id;
